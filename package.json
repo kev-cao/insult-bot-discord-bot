@@ -1,0 +1,11 @@
+{
+  "name": "Insult_Bot",
+  "version": "1.0.0",
+  "description": "Insults people.",
+  "main": "bot.js",
+  "author": "Kevin Cao",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.2.1"
+  }
+}
