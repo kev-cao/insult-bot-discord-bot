@@ -44,7 +44,14 @@ bot.on('message', function (user, userID, channelID, message, evt) {
     "**I wonder if $ would be able to speak more clearly if their parents were second cousins instead of first.**",
     "**I'd call $ a cunt, but % has neither the warmth nor the depth.**",
     "**I would have been $'s daddy, but a dog beat me over the fence.**",
-		"**$ is a toaster.**"];
+		"**$ is a toaster.**",
+ 		"**$'s face looks like it was on fire and someone tried to put it out with an ice pick.**",
+		"**If $ was any stupider, we'd have to water @.**",
+		"**$'s about as bright as a black hole and twice as dense.**",
+		"**AHHHHHHHHHHHHHH I HATE YOU $**",
+		"**$ has the smoothest cerebral cortex I've ever seen.**",
+		"**$ is what happened when God got tired of making people.**",
+		"**The only culture $'s got is bacteria.**"];
 
   if (message.substring(0, 8) == "!insult ") {
     var messageAfterCommand = message.substring(8);
