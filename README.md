@@ -6,6 +6,7 @@ This is the second Discord bot I ever created. It reacts to a triggering command
 
 ## Features
 > !insult name gender
+
 `Name` is the name of the person to insult.
 
 `Gender` should be `m` or `f` to signify male or female, respectively. This helps the bot choose the correct pronoun.
